@@ -33,17 +33,13 @@ Yogiraj Cake Shop is a small-scale cake order management system. The aim of the 
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js / Java (update as per your tech)
-- **Database:** MongoDB / MySQL / File-based (specify)
+- **Backend:** Node.js / Java 
+- **Database:** MongoDB / MySQL / File-based 
 - **Tools:** Git, GitHub
 
 ---
 
-## 📷 Screenshots
 
-_Add screenshots of the UI (optional but highly recommended)_
-
----
 
 ## 🔧 Installation & Usage
 
